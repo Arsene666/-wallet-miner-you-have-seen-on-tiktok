@@ -1,5 +1,5 @@
 #Made by hvitserk#6505
-from colorama import Fore
+from colorama import Fore, Style
 import time 
 import random
 import string
@@ -30,6 +30,7 @@ def miner1():
 
 miner()
 miner1()
+print(Style.RESET_ALL)
 
 
 
