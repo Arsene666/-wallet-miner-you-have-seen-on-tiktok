@@ -31,8 +31,7 @@ def miner1():
 miner()
 miner1()
 print(Style.RESET_ALL)
-print("Program will exit in 60 seconds")
-time.sleep(60)
+
 
 
 
