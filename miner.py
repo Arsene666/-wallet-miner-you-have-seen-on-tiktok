@@ -31,6 +31,7 @@ def miner1():
 miner()
 miner1()
 print(Style.RESET_ALL)
+exit()
 
 
 
